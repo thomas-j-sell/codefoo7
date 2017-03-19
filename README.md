@@ -43,12 +43,12 @@ Grand total 5,386,431 pieces
 About 5.4 million pieces
 
 ## 3) Nuggle (Number Boggle)
-This question has it's own [repo](https://github.com/thomas-j-sell/nuggle)
+This section has it's own [repo](https://github.com/thomas-j-sell/nuggle).  The explanation for design can be found there.
 
-####Can you make a version with a larger grid?
+##### Can you make a version with a larger grid?
 I can, in fact my solution is designed to be flexible enough to solve a puzzle of any size.
 
-####How well does it scale?
+##### How well does it scale?
 The following data is the average time in seconds it takes for my solution on my machine to solve a puzzle (average of 100 puzzles):
 * 2x2 average execution time: 0.00015036
 * 3x3 average execution time: 0.009666110000000004
@@ -56,3 +56,6 @@ The following data is the average time in seconds it takes for my solution on my
 * 5x5 average execution time: 1008.094548167 (limited to 9 completed runs)
 
 It does not scale well.
+
+## 4) Back End
+This section has it's own [repo](https://github.com/thomas-j-sell/backend).
