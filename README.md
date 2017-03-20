@@ -2,7 +2,7 @@
 My application for Code Foo 7.  Contains answers to questions and links to repositories and media.
 
 ## 1) Youtube of me
-Insert link to youtube here.
+I don't possess the desire, eloquence, or photogenicness to be on camera so I'll try to convince you with just text.  IGN has been my main source of gaming and entertainment news for many years.  Your previews and reviews have shaped my purchasing decisions and informed my recommendations when I was selling electronics and media at Meijer.  You should pick me because I have a love for gaming and programming, because this would be a fantastic opportunity for me, and because I want it.  At the very least I really enjoyed completing this application so thank you for the opportunity.
 
 ## 2) Lincoln Log Empire State Building Replica
 ##### Dimensions of Empire State Building: (Obtained from [wikipedia](https://en.wikipedia.org/wiki/Empire_State_Building))
@@ -59,3 +59,5 @@ It does not scale well.
 
 ## 4) Back End
 This section has it's own [repo](https://github.com/thomas-j-sell/backend).
+
+**NOTE** I'm an idiot.  I wrote the program in python before I re-read the instructions to find out it's not an allowed language.
